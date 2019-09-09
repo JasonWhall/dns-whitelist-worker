@@ -1,0 +1,6 @@
+name = "dns-whitelist-worker"
+type = "javascript"
+zone_id = ""
+private = false
+account_id = ""
+route = ""

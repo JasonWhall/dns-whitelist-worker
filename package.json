@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "dns-whitelist-worker",
+  "version": "1.0.0",
+  "description": "use DNS record for IP whitelisting",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write '**/*.{js,css,json,md}'",
+    "preview": "wrangler preview --watch",
+    "publish": "wrangler publish"
+  },
+  "author": "JasonWhall",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.18.2"
+  }
+}
